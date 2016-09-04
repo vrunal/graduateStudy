@@ -1,0 +1,28 @@
+Assignment 2 task:
+
+Finish watching breakout tutorial:
+https://unity3d.com/learn/tutorials/modules/beginner/ live-training-archive/creating-a-breakout-game?playlist=41639
+Create the game and build it
+On your website:
+• add three examples of what you have learned in
+the parts we did not do together (2-3 sentences
+each)
+• add a link to your breakout game
+
+
+Work done:
+
+Following the work done in the lectures and tutorial video the wall barrier and the paddle for the game was setup!
+
+The Game Manager Script mentioned in the tutorial is the essential element of the entire game. While writing that script i understood how important it is to keep the game flow attached to main camera and then control all the entities of the game accordingly.
+
+1.I also followed the space shooter tutorial to implement shooting for the paddle 
+Link for tutorial:https://unity3d.com/learn/tutorials/projects/space-shooter/shooting-shots?playlist=17147
+
+2. I used a quad to make a background to resemble space environment and kept all the wall barriers hidden out of the frame of the scene.
+
+3. Kept a particle system flowing with the background to give an impression of flowing space.
+
+Difficulities:
+
+The ball takes straight line trajectories making the game boring. I tried rotating the left and the top wall by few degrees. However, it did'nt result to substantial effect.
