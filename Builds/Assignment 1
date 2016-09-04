@@ -4,14 +4,18 @@ Assignment question: Create a “game”, in which you can move an object in 2D 
   Clicking the left mouse button changes the color of the object.
   
   
-My attempt was to make the game in 2D perspective with 3D objects. Hence, I rotated the camera in the Y-axis, hecne the player could be able 
-to play by looking down and play in xy-axis.
+My attempt was to make the game in 2D perspective with 3D objects. Hence,
+I rotated the camera in the Y-axis, hence the player could be able 
+to play by looking down and play in xy-axis. 
+In this process i was able to use transform in horizontal and vertical axis. 
+I used Input.getAxis to manipulate the ball's position from the keyboard. 
 
-I used Input.getAxis to manipulate the ball's position from the keyboard. For translation of camera objecct based on the position of the ball
+For translation of camera objecct based on the position of the ball
 was implmented using the transform.position function of the ball gameobject.
 
 Random function along with Math.lerp function was used to change the color of the shader everytime left mouse click was pressed.
 
 
-Difficulties: I encountered some problem while linking the unity webplayer link via github. Hence, i had to host the resources and index.html 
+Difficulties: I encountered some problem while linking the unity webplayer link via github. 
+Hence, i had to host the resources and index.html 
 file on the google drive and then redirect that link on my github webpages.
