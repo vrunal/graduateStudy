@@ -1,0 +1,11 @@
+Assignment:
+Follow the tutorial “Setting up a Humanoid Avatar”:
+http://unity3d.com/learn/tutorials/modules/ intermediate/live-training-archive/ setting-up-a-humanoid-avatar?playlist=17099
+Add the game to your website. Include a description of thre points that you have learned.
+
+Description.
+
+The game includes a running track, few objectives and hurdles.
+The Character animation could be controlled using A S D W. 
+The default motion is forward jogging motion.
+To sprint forward, use the 
