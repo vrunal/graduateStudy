@@ -9,15 +9,17 @@ Objectives:
 1. Car Physics.
 -Wheel Colliders.
 Use rigidbody to keep wheels on the ground and translate the position 
+-User Inputs
+translate vertical and horizontal movements of the player.
 
-User Inputs
--translate vertical and horizontal movements of the player.
 Reference: Unity standard Assets, car controller script. 
 
 2.GUI Design Components
 Radial Speedometer.
 Use of Vector3.Dot function to computer dot product of two vectors.ie Velocity of Rigidbody(car) and position of the same rigidbody.
-Reference:https://www.youtube.com/watch?v=s-mxThH7LJQ
+
+Reference:Tutorial :https://www.youtube.com/watch?v=s-mxThH7LJQ
+Speedometer image sprite :http://www.trusharkgh.com/dashboard-high-512-2/
 
 3. Third Person Camera Follower.
 Reused script made in Camera assignment for the horrorPuzzle game.
