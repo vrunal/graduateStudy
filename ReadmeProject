@@ -1,0 +1,24 @@
+Name : Vrunal Mhatre 
+Course: 8810, 3D Game Development
+Group 1, Racing Car Game.
+Project Partner: Vishnu.
+
+Deliverable 1: Playable game.
+
+Objectives: 
+1. Car Physics.
+-Wheel Colliders.
+Use rigidbody to keep wheels on the ground and translate the position 
+
+User Inputs
+-translate vertical and horizontal movements of the player.
+Reference: Unity standard Assets, car controller script. 
+
+2.GUI Design Components
+Radial Speedometer.
+Use of Vector3.Dot function to computer dot product of two vectors.ie Velocity of Rigidbody(car) and position of the same rigidbody.
+Reference:https://www.youtube.com/watch?v=s-mxThH7LJQ
+
+3. Third Person Camera Follower.
+Reused script made in Camera assignment for the horrorPuzzle game.
+Uses Spherical Lerp function to interpolate rotations and transform offset to translate camera object with respect to target.
