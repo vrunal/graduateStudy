@@ -8,11 +8,12 @@ Deliverable 1: Playable game.
 Objectives: 
 1. Car Physics.
 -Wheel Colliders.
-Use rigidbody to keep wheels on the ground and translate the position 
+Use rigidbody to keep wheels on the ground and translate the position
+Use of Steer angle, rpm and motorTorque variables in wheel collider.
 -User Inputs
 translate vertical and horizontal movements of the player.
 
-Reference: Unity standard Assets, car controller script. 
+Reference: https://www.youtube.com/watch?v=Wh89-MWPLCc&index=5&list=PLQBhQREjWwvCiLXte-E6brUvhDcJcI4l7 tutorial video.
 
 2.GUI Design Components
 Radial Speedometer.
