@@ -19,6 +19,12 @@ Reference: https://www.youtube.com/watch?v=Wh89-MWPLCc&index=5&list=PLQBhQREjWwv
 Radial Speedometer.
 Use of Vector3.Dot function to computer dot product of two vectors.ie Velocity of Rigidbody(car) and position of the same rigidbody.
 
+Race Time:
+Text UI using Time.time variable.
+
+Speed:
+RPM variable from wheel colliders.
+
 Reference:Tutorial :https://www.youtube.com/watch?v=s-mxThH7LJQ
 Speedometer image sprite :http://www.trusharkgh.com/dashboard-high-512-2/
 
