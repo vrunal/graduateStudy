@@ -1,0 +1,46 @@
+Name : Vrunal Mhatre 
+Course: 8810, 3D Game Development
+Group 1, Racing Car Game.
+Project Partner: Vishnu.
+
+Deliverable 2: Build 2
+
+Report:
+
+Our intially build was focused on writing code for car physics and making car track. We achieved a basic code structure and undertanding 
+of developing the same. And were able to pick of earlier build and enhance it better with help of Unity assets. This Build focused on AI 
+and smoothing car models.
+
+Objectives: 
+1.Car models for AI and User.
+We can attach car contrller scripts on any car models. Hence, this encouraged us to use car models from 
+Asset store to enhance the art for 3D models
+Citation: https://www.assetstore.unity3d.com/en/#!/content/37490
+
+2.Racing Track with adventurous slides
+The entire track will have slides and jump ramps to increase a fun element, and allow players to perform stunts.
+Citation:  https://www.assetstore.unity3d.com/en/#!/content/37490
+
+3.User car Physics modifications- Smooth Maneuvering of cars 
+Taking reference from Car Controller Script from Standard Assets allows accurate car physics simulation.
+Citation:Standard Assets Car controller 
+
+4. Car Physics Audio.
+The car audio script will interpolate between the audio files baseed on threshold.
+Citation: Audio clips Standard Assets
+
+5.  Turret.
+A missile shooting gun on top of the jeep to shoot opponent cars.
+The turret rotates across Y axis using Transform.LookAt funtion to point towards opponents cars for shooting.
+Would be used for shooting mechanism in the future builds.
+Citation: https://www.assetstore.unity3d.com/en/#!/content/9872
+
+6. Min –Map Camera.
+Small Navigation map for estimating probable collectable along the path of race track.
+Using Second top down camera with depth cues.
+
+7. Car AI
+Path Following Scripts using Waypoints.
+This is still working in a crude way, may try navmesh navigation to improve smoothness.
+
+Contact GitHub 
